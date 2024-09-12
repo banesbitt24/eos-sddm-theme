@@ -1,9 +1,6 @@
-# eos-sddm-theme
+# My SDDM theme using the eos-sddm-theme
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-sddm theme using default EndeavourOS wallpaper
-Forked from: 
-https://gitlab.com/isseigx/simplicity-sddm-theme
+eos sddm theme using a custom wallpaper
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/eos-sddm-theme/main/endeavouros/screenshot.png" alt="EndeavourOS SDDM theme" title="EndeavourOS SDDM Theme" />
